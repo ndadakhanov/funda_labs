@@ -1,0 +1,3 @@
+Hello 123 World!
+This is a test line: 42.
+Final 999 END.

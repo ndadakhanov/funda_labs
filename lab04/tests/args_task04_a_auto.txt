@@ -1,0 +1,1 @@
+-a tests/input_text.txt

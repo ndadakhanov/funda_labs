@@ -1,0 +1,1 @@
+-ni tests/input_text.txt tests/custom_out_i.txt
