@@ -1,0 +1,1 @@
+tests/input_task08_bad_chars.txt tests/out_bad.txt
