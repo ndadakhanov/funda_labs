@@ -1,0 +1,1 @@
+-r tests/input_r_spaces.txt tests/input_r2_short.txt tests/out_r_spaces.txt

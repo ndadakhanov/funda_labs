@@ -1,0 +1,1 @@
+-a tests/input_empty.txt tests/out_a_empty.txt

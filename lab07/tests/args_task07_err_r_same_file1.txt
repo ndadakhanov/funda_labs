@@ -1,0 +1,1 @@
+-r tests/input_r1_same.txt tests/input_r2_same.txt tests/input_r1_same.txt

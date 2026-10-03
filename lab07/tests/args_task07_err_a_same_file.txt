@@ -1,0 +1,1 @@
+-a tests/input_tokens12.txt tests/input_tokens12.txt
